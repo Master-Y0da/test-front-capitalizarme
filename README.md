@@ -12,5 +12,5 @@
 # Ejecutando proyecto
 
 - una vez instalado el entorno de bun, se debe mover al folder app ```cd app```
-- ejecutar comando ```bun```
+- ejecutar comando ```bun install```
 - una vez levantado el servidor ir a localhost:3000
